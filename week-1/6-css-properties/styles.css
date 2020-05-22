@@ -17,6 +17,6 @@ a {
   opacity: 0.5;
 }
 
-.message {
+.message__content {
     line-height: 1.6;
 }
